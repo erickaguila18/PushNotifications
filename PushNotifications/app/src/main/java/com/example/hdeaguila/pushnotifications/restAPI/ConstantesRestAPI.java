@@ -5,7 +5,7 @@ package com.example.hdeaguila.pushnotifications.restAPI;
  */
 public final class ConstantesRestAPI {
 
-    public static final String ROOT_URL = "http://10.99.30.178:8080/";
+    public static final String ROOT_URL = "https://demo-erick-aguila.c9users.io/";
     public static final String KEY_POST_ID_TOKEN = "token-device/";
 
 }
